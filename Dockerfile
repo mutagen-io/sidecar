@@ -14,7 +14,7 @@ COPY ["entry.go", "entry.go"]
 # Build the entry point.
 RUN ["go", "build", "-o", "/mutagen-entry", "entry.go"]
 
-# Switch to a minimal base image for the final image.
+# Switch to a minimal Alpine-based image as a base.
 FROM alpine:latest
 
 # Create the parent directory for volume mount points.
