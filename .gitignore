@@ -1,3 +1,2 @@
-# Ignore any compiled entry point executables.
-/entry
-/entry.exe
+# Ignore build products
+/build/
