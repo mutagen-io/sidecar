@@ -38,7 +38,7 @@ install: true
 
 # Run the build.
 script:
-  - scripts/${TRAVIS_OS_NAME}/build.sh
+  - scripts/ci/build.sh
 
 # Deploy on master branch updates.
 deploy:
