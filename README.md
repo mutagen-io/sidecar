@@ -1,5 +1,25 @@
-# Mutgen Compose Service
+# Mutagen Sidecar
 
-This repository contains the sources for the
-[Mutagen container images](https://hub.docker.com/r/mutagenio/mutagen-compose-service)
-used by Mutagen's Docker Compose integration.
+This repository contains the sources for the Mutagen sidecar container images
+used by Mutagen's container orchestration integration. The resulting images are
+available on Docker Hub:
+
+[https://hub.docker.com/r/mutagenio/sidecar](https://hub.docker.com/r/mutagenio/sidecar)
+
+
+## Status
+
+Images are currently built and tested for the following configurations:
+
+- Linux/amd64
+
+| Tests                               | Report card                         | License                                   |
+| :---------------------------------: | :---------------------------------: | :---------------------------------------: |
+| [![Tests][tests-badge]][tests-link] | [![Report card][rc-badge]][rc-link] | [![License][license-badge]][license-link] |
+
+[tests-badge]: https://travis-ci.org/mutagen-io/sidecar.svg?branch=master "Test status"
+[tests-link]:  https://travis-ci.org/mutagen-io/sidecar "Test status"
+[rc-badge]: https://goreportcard.com/badge/github.com/mutagen-io/sidecar "Report card status"
+[rc-link]: https://goreportcard.com/report/github.com/mutagen-io/sidecar "Report card status"
+[license-badge]: https://img.shields.io/github/license/mutagen-io/sidecar.svg "MIT licensed"
+[license-link]: LICENSE "MIT licensed"
