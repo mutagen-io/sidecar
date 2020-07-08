@@ -9,7 +9,7 @@ mkdir build
 # Build the entry point.
 echo "Building entry point..."
 pushd build > /dev/null
-go build ../cmd/mutagen-entry
+go build ../cmd/mutagen-sidecar-entry
 popd > /dev/null
 
 # Build the Docker image.

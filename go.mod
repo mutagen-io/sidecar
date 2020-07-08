@@ -1,4 +1,4 @@
-module github.com/mutagen-io/mutagen-compose-service
+module github.com/mutagen-io/sidecar
 
 go 1.14
 

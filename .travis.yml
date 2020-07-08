@@ -4,7 +4,7 @@ language: go
 # Set up global environment variables.
 env:
   global:
-    - DEPLOYMENT_TARGET=mutagenio/mutagen-compose-service:latest
+    - DEPLOYMENT_TARGET=mutagenio/sidecar:latest
 
 # Set up the build matrix.
 matrix:
