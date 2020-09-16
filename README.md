@@ -17,8 +17,8 @@ Images are currently built and tested for the following configurations:
 | :---------------------------------: | :---------------------------------: | :---------------------------------------: |
 | [![Tests][tests-badge]][tests-link] | [![Report card][rc-badge]][rc-link] | [![License][license-badge]][license-link] |
 
-[tests-badge]: https://travis-ci.org/mutagen-io/sidecar.svg?branch=master "Test status"
-[tests-link]:  https://travis-ci.org/mutagen-io/sidecar "Test status"
+[tests-badge]: https://api.travis-ci.com/mutagen-io/sidecar.svg?branch=master "Test status"
+[tests-link]: https://travis-ci.com/github/mutagen-io/sidecar/builds "Test status"
 [rc-badge]: https://goreportcard.com/badge/github.com/mutagen-io/sidecar "Report card status"
 [rc-link]: https://goreportcard.com/report/github.com/mutagen-io/sidecar "Report card status"
 [license-badge]: https://img.shields.io/github/license/mutagen-io/sidecar.svg "MIT licensed"
