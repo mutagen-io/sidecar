@@ -31,7 +31,7 @@ addons:
 # than a float to be truncated:
 # https://github.com/travis-ci/travis-ci/issues/9247
 go:
-  - "1.14.4"
+  - "1.15.2"
 
 # Skip the default install step.
 install: true
