@@ -1,6 +1,9 @@
 # Use a minimal Alpine-based image as a base.
 FROM alpine:latest
 
+# Set an environment variable to indicate that this is the Mutagen sidecar.
+ENV MUTAGEN_SIDECAR=true
+
 # Create the parent directory for volume mount points.
 RUN ["mkdir", "/volumes"]
 
