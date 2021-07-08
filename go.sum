@@ -82,6 +82,8 @@ github.com/mutagen-io/fsevents v0.0.0-20180903111129-10556809b434/go.mod h1:kmTy
 github.com/mutagen-io/gopass v0.0.0-20170602182606-9a121bec1ae7/go.mod h1:MyZ/hSGB6tVRgiUqOL62QdM31Sy+B8hvbA1roNTHmOc=
 github.com/mutagen-io/mutagen v0.11.5 h1:TGfONFn9MpNP6suwITNj059y6LtfseCFHMVsY8rS/Q8=
 github.com/mutagen-io/mutagen v0.11.5/go.mod h1:tun24vWKK01Ws6XD+fusVeJS76b/6D/6UG6pxxZb2PY=
+github.com/mutagen-io/mutagen v0.11.8 h1:1V5nGNiPqubLHJkAB9HQZV6Kw1cIuyqetztOAWRM9CM=
+github.com/mutagen-io/mutagen v0.11.8/go.mod h1:tun24vWKK01Ws6XD+fusVeJS76b/6D/6UG6pxxZb2PY=
 github.com/mwitkow/go-conntrack v0.0.0-20161129095857-cc309e4a2223/go.mod h1:qRWi+5nqEBWmkhHvq77mSJWrCKwh8bxhgT7d/eI7P4U=
 github.com/oklog/ulid v1.3.1/go.mod h1:CirwcVhetQ6Lv90oh/F+FBtV6XMibvdAFo93nm5qn4U=
 github.com/onsi/ginkgo v1.6.0/go.mod h1:lLunBs/Ym6LB5Z9jYTR76FiuTmxDTDusOGeTQH+WWjE=
@@ -111,6 +113,7 @@ github.com/pion/turn v1.4.0/go.mod h1:aDSi6hWX/hd1+gKia9cExZOR0MU95O7zX9p3Gw/P2a
 github.com/pion/webrtc/v2 v2.1.18/go.mod h1:m0rKlYgLRZWyhmcMWegpF6xtK1ASxmOg8DAR74ttzQY=
 github.com/pkg/errors v0.8.0/go.mod h1:bwawxfHBFNV+L2hUp1rHADufV3IMtnDRdf1r5NINEl0=
 github.com/pkg/errors v0.8.1/go.mod h1:bwawxfHBFNV+L2hUp1rHADufV3IMtnDRdf1r5NINEl0=
+github.com/pkg/errors v0.9.1 h1:FEBLx1zS214owpjy7qsBeixbURkuhQAwrK5UwLGTwt4=
 github.com/pkg/errors v0.9.1/go.mod h1:bwawxfHBFNV+L2hUp1rHADufV3IMtnDRdf1r5NINEl0=
 github.com/pmezard/go-difflib v1.0.0/go.mod h1:iKH77koFhYxTK1pcRnkKkqfTogsbg7gZNVY4sRDYZ/4=
 github.com/prometheus/client_golang v0.9.1/go.mod h1:7SWBe2y4D6OKWSNQJUaRYU/AaXPKyh/dDVn+NZz0KFw=
