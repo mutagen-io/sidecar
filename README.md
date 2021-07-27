@@ -1,3 +1,9 @@
+**NOTE: The code for the Mutagen Sidecar image has been relocated to the main
+[Mutagen repository](https://github.com/mutagen-io/mutagen)**. This repository
+is no longer used or updated.
+
+---
+
 # Mutagen Sidecar
 
 This repository contains the sources for the Mutagen sidecar container images
